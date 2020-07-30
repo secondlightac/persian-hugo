@@ -1,4 +1,4 @@
-baseURL = "https://www.secondlightac.de"
+baseURL = "https://www.secondlight.netlify.app"
 disqusShortname = ""
 languageCode = "de-de"
 languageName = "De"
