@@ -24,7 +24,7 @@ sections:
   label: Others Page
 - type: document
   path: exampleSite/content/about/_index.md
-  label: About
+  label: Über Uns
 - type: document
   path: exampleSite/content/contact/_index.md
   label: Contact
