@@ -16,7 +16,7 @@ URL = "about"
 name = "Über Uns"
 weight = 2
 [[menu.main]]
-URL = "categories/nature/"
+URL = "secondlight/kerze/"
 name = "Die Kerze"
 weight = 3
 [[menu.main]]
