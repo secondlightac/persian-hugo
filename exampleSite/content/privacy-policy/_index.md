@@ -1,5 +1,5 @@
 ---
-title: Datenschutzerklärung
+title: 'Datenschutz '
 description: this is meta description
 
 ---
