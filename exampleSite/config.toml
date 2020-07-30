@@ -12,13 +12,17 @@ URL = "/"
 name = "Home"
 weight = 1
 [[menu.main]]
+URL = "secondlight/kerze/"
+name = "Die Kerze"
+weight = 3
+[[menu.main]]
 URL = "about"
 name = "Über Uns"
 weight = 2
 [[menu.main]]
-URL = "secondlight/kerze/"
-name = "Die Kerze"
-weight = 3
+URL = ""
+name = "SecondLight in den Medien"
+weight = ""
 [[menu.main]]
 URL = "kontact"
 name = "Kontakt"
