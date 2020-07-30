@@ -32,7 +32,7 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "Copyright © 2020 SecondLight"
+copyright = ""
 description = "This is meta description"
 logo = "images/logo.png"
 search = true
