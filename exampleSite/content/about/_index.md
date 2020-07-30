@@ -1,13 +1,14 @@
 ---
-title: "I'm a Freelance Interactive Art Director Based In France. Focusing Accross Branding And Identity"
-image: "images/author.jpg"
-description: "This is meta description."
-draft: false
+title: Was ist eigentlich SecondLight?
+image: images/author.jpg
+description: This is meta description.
+
 ---
+Regional, ökologisch und sozial sind die drei Säulen, auf die SecondLight aufbaut.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum 
+Stellt euch vor, ihr seid mit eurer Familie abends essen. Auf dem Tisch steht eine Kerze. Am nächsten Tag steht auf dem Tisch wieder eine neue Kerze. Doch was passiert mit den alten Wachsresten? Dazu haben wir von SecondLight uns etwas überlegt.
 
-Faucibus duis urna, consequat morbi imperdiet pulvinar. Mauris vitae sed aliquet eu tincidunt id. Nulla leo eget erat vel pharetra. Morbi nullam morbi non purus, augue. Massa cras odio ante cursus a mauris. Volutpat faucibus feugiat feugiat euismod congue ridiculus. Et ipsum euismod nulla et aenean diam duis. Sem molestie est mauris sit. Et eleifend odio 
+Zusammen mit der Caritas-Werkstatt in Monschau-Imgenbroich stellen wir aus Wachsresten neue Kerzen her. Die Wachsreste stammen aus Aachener Kirchen und Restaurants sowie von Privatpersonen. In der Caritas arbeiten Menschen mit Behinderungen, die durch die Herstellung von Kerzen kreatives Recycling praktisch leben. Das Projekt sorgt somit vor allem für einen abwechslungsreicheren Alltag bei der Caritas und ermöglicht es, vor Ort eigenständig ein neues, vollständiges Produkt herzustellen. Somit können wir euch ein schönes und nachhaltiges Produkt anbieten, dessen Erlöse den Menschen in der Einrichtung wieder zugutekommen.
 
 <br>
 <br>
@@ -15,6 +16,7 @@ Faucibus duis urna, consequat morbi imperdiet pulvinar. Mauris vitae sed aliquet
 <div class="facts">
 
 ## Some Facts
+
 * In enim justo, rhoncus ut, ullamcorper ultricies
 * Curabitur ullamcorper ultricies ullamcorper ultricies
 * Donec vitae sapien utlorem ullamcorper ultricies
