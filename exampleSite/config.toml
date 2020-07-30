@@ -20,8 +20,8 @@ URL = "categories/nature/"
 name = "Die Kerze"
 weight = 3
 [[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "kontact"
+name = "Kontakt"
 weight = 4
 [[menu.main]]
 URL = "privacy-policy"
