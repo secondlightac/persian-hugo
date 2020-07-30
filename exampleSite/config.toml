@@ -3,36 +3,36 @@ disqusShortname = ""
 languageCode = "de-de"
 languageName = "De"
 paginate = "5"
-theme = "persian"
+theme = ""
 title = "SecondLight"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-URL = "privacy-policy"
-name = "Privacy Policy"
-weight = 5
+URL = "/"
+name = "Home"
+weight = 1
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
+URL = "about"
+name = "About"
+weight = 2
 [[menu.main]]
 URL = "categories/nature/"
 name = "Category"
 weight = 3
 [[menu.main]]
-URL = "about"
-name = "Über uns"
-weight = 2
+URL = "contact"
+name = "Contact"
+weight = 4
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+URL = "privacy-policy"
+name = "Privacy Policy"
+weight = 5
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright © 2020 SecondLight"
 description = "This is meta description"
 logo = "images/logo.png"
 search = true
