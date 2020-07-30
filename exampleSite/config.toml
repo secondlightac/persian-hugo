@@ -13,11 +13,11 @@ name = "Home"
 weight = 1
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Über Uns"
 weight = 2
 [[menu.main]]
 URL = "categories/nature/"
-name = "Category"
+name = "Die Kerze"
 weight = 3
 [[menu.main]]
 URL = "contact"
