@@ -24,7 +24,7 @@ URL = ""
 name = "SecondLight in den Medien"
 weight = ""
 [[menu.main]]
-URL = "kontact"
+URL = "contact"
 name = "Kontakt"
 weight = 4
 [[menu.main]]
