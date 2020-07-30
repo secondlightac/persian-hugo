@@ -1,11 +1,8 @@
 ---
-title: "Privacy & Policy"
-# meta description
-description: "this is meta description"
-# save as draft
-draft: false
----
+title: Datenschutzerklärung
+description: this is meta description
 
+---
 bottom line is it’s our aim to always take care of both of us, 
 Please read this terms and  stated below, goodies Byes
 
