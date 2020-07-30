@@ -24,8 +24,8 @@ URL = "kontact"
 name = "Kontakt"
 weight = 4
 [[menu.main]]
-URL = "privacy-policy"
-name = "Privacy Policy"
+URL = "datenschutz"
+name = "Datenschutzerklärung"
 weight = 5
 [outputs]
 home = ["HTML", "RSS", "json"]
